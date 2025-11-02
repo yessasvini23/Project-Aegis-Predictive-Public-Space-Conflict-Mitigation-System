@@ -8,6 +8,7 @@ Transforming urban governance from <b>reactive firefighting</b> to <b>proactive 
 
 <p align="center">
   <a href="https://aegis-predictive-calm.lovable.app/?utm_source=lovable-editor-applicaion"><img src="https://img.shields.io/badge/🌐%20Live%20Prototype-Open-blue?style=for-the-badge" alt="Live Prototype"></a>
+  <a href="https://youtu.be/yxazzYrxyN4"><img src="https://img.shields.io/badge/🎬%20Watch%20Demo-YouTube-red?style=for-the-badge" alt="YouTube Demo"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/AI%20for%20Social%20Impact-🏙️-purple?style=for-the-badge"></a>
 </p>
@@ -28,6 +29,9 @@ From *hawker–shopkeeper disputes* to *crowd congestion* and *water distributio
 
 🎯 **Experience the interactive web prototype:**  
 👉 [**Project Aegis Live Dashboard**](https://aegis-predictive-calm.lovable.app/?utm_source=lovable-editor-applicaion)
+
+🎬 **Watch the 3-Minute Demo Video:**  
+👉 [**YouTube Demo Link**](https://youtu.be/yxazzYrxyN4)
 
 <video width="800" controls>
   <source src="Screen%20Recording%20-%20Oct%2031,%202025-VEED.mp4" type="video/mp4">
@@ -50,18 +54,17 @@ Traditional governance reacts *after* conflicts occur.
 
 All this data feeds into the **Friction Index Engine**, which produces a **risk heatmap** and **action recommendations**.
 
-
 ---
 
-┌──────────────────────────────┐
-│ Multi-Source Data Ingestion │
-└──────────────┬───────────────┘
-↓
-[ Friction Index Engine ]
-↓
-Predictive ML Correlations
-↓
-[ Dashboard & Alerts ]##
+┌──────────────────────────────┐  
+│ Multi-Source Data Ingestion │  
+└──────────────┬───────────────┘  
+↓  
+[ Friction Index Engine ]  
+↓  
+Predictive ML Correlations  
+↓  
+[ Dashboard & Alerts ]  
 
 - 🧩 **AI Correlation Engine** finds hidden friction patterns.  
 - 🗺️ **Heatmap Dashboard** visualizes zones by risk level.  
@@ -113,7 +116,6 @@ Predictive ML Correlations
   }
 }
 
-
 📈 Social Impact
 Metric	Outcome
 ⚡ Response Time	60% faster civic intervention
@@ -121,8 +123,8 @@ Metric	Outcome
 🚓 Police Efficiency	Smarter beat management & prevention
 🌿 Community Harmony	Reduced street-level friction & complaints
 
-
 🧭 Ethical AI & Data Privacy Principles
+
 ✅ Data Minimization – Collect only what’s essential, anonymized & aggregated
 ✅ Transparency & Explainability – Every alert includes human-readable reasons
 ✅ Human Oversight – AI assists; officials decide
@@ -132,13 +134,15 @@ Metric	Outcome
 
 🕊️ Predictive doesn’t mean intrusive — it means prepared.
 
-
 📘 Supporting Material
+
 📄 Pitch Deck: Presentation – Solving Small Frictions (PDF)
-🎬 Demo Video: (Embedded above)
-🌐 Live Prototype: https://aegis-predictive-calm.lovable.app
+🎬 Demo Video: YouTube Link
+
+🌐 Live Prototype: Aegis Live Web App
 
 👩‍💻 Developed By
+
 Yessasvini Sudarshanam
 📧 yessasvini.s@gmail.com
 🔗 LinkedIn
@@ -148,16 +152,10 @@ Category	Details
 Track	AI for Social Impact / Governance Innovation
 Duration	3-minute live demo
 Prototype	Aegis Live Web App
-
 Theme	Predictive Governance & Peaceful Public Spaces
 
 📜 License
 This project is released under the MIT License.
 © 2025 Yessasvini Sudarshanam — All rights reserved.
 
-
-<p align="center"> <i>“From chaos to coordination — Project Aegis uses AI foresight to build peaceful, predictable cities.”</i> </p>
-
-
-
-
+<p align="center"><i>“From chaos to coordination — Project Aegis uses AI foresight to build peaceful, predictable cities.”</i></p> ```
